@@ -2,7 +2,7 @@ kaggle linkleri:
 1. gözetimsiz: https://www.kaggle.com/code/larmesi/unsupervised-k-means
 2. gözetimli: https://www.kaggle.com/code/larmesi/supervised-logisticregression
 
-Bu projede dolandırıcılık üzerine kurulmuş bir veri setinden yararlandım. Gözetimli ve gözetimsiz iki farklı algirtimayı kullandım. Birinci ve bu tür veri setlerinde ,ikili sınıflandırma şeklinde ilerleyen, daha kullanışlı olan gözetimli öğrenme algortiması logistic regression'dan yararlandım ve verdiği sonuç oldukta tatmin ediciydi. Fraud ve no-fraud olarak her bir veri noktasının belirli bir sınıfa ait olma olasılığını gösteren logistic regression daha kesin kararlar vermede, overfitting riskinin oldukça düşük olması yönüyle iyi bir seçenekti.
+Bu projede dolandırıcılık üzerine kurulmuş bir veri setinden yararlandım. Gözetimli ve gözetimsiz iki farklı algoritmayı kullandım. Birinci ve bu tür veri setlerinde ,ikili sınıflandırma şeklinde ilerleyen, daha kullanışlı olan gözetimli öğrenme algortiması logistic regression'dan yararlandım ve verdiği sonuç oldukta tatmin ediciydi. Fraud ve no-fraud olarak her bir veri noktasının belirli bir sınıfa ait olma olasılığını gösteren logistic regression daha kesin kararlar vermede, overfitting riskinin oldukça düşük olması yönüyle iyi bir seçenekti.
 
 ![logistic_regression](https://i.hizliresim.com/gzogj84.png)
 
